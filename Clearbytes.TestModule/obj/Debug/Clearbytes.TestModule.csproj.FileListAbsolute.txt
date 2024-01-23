@@ -1,0 +1,12 @@
+C:\Users\spotk\OneDrive\Desktop\Clearbytes\Clearbytes.TestModule\bin\Debug\TestModule.dll
+C:\Users\spotk\OneDrive\Desktop\Clearbytes\Clearbytes.TestModule\bin\Debug\TestModule.pdb
+C:\Users\spotk\OneDrive\Desktop\Clearbytes\Clearbytes.TestModule\bin\Debug\ClearbytesBridge.dll
+C:\Users\spotk\OneDrive\Desktop\Clearbytes\Clearbytes.TestModule\bin\Debug\System.Data.SQLite.dll
+C:\Users\spotk\OneDrive\Desktop\Clearbytes\Clearbytes.TestModule\bin\Debug\ClearbytesBridge.pdb
+C:\Users\spotk\OneDrive\Desktop\Clearbytes\Clearbytes.TestModule\obj\Debug\Clearbytes.TestModule.csproj.AssemblyReference.cache
+C:\Users\spotk\OneDrive\Desktop\Clearbytes\Clearbytes.TestModule\obj\Debug\Clearbytes.TestModule.Properties.Resources.resources
+C:\Users\spotk\OneDrive\Desktop\Clearbytes\Clearbytes.TestModule\obj\Debug\Clearbytes.TestModule.csproj.GenerateResource.cache
+C:\Users\spotk\OneDrive\Desktop\Clearbytes\Clearbytes.TestModule\obj\Debug\Clearbytes.TestModule.csproj.CoreCompileInputs.cache
+C:\Users\spotk\OneDrive\Desktop\Clearbytes\Clearbytes.TestModule\obj\Debug\Clearbytes.TestModule.csproj.CopyComplete
+C:\Users\spotk\OneDrive\Desktop\Clearbytes\Clearbytes.TestModule\obj\Debug\TestModule.dll
+C:\Users\spotk\OneDrive\Desktop\Clearbytes\Clearbytes.TestModule\obj\Debug\TestModule.pdb

@@ -1,0 +1,8 @@
+C:\Users\spotk\OneDrive\Desktop\Clearbytes\ClearbytesBridge\bin\Debug\ClearbytesBridge.dll
+C:\Users\spotk\OneDrive\Desktop\Clearbytes\ClearbytesBridge\bin\Debug\ClearbytesBridge.pdb
+C:\Users\spotk\OneDrive\Desktop\Clearbytes\ClearbytesBridge\bin\Debug\System.Data.SQLite.dll
+C:\Users\spotk\OneDrive\Desktop\Clearbytes\ClearbytesBridge\obj\Debug\ClearbytesBridge.csproj.AssemblyReference.cache
+C:\Users\spotk\OneDrive\Desktop\Clearbytes\ClearbytesBridge\obj\Debug\ClearbytesBridge.csproj.CoreCompileInputs.cache
+C:\Users\spotk\OneDrive\Desktop\Clearbytes\ClearbytesBridge\obj\Debug\ClearbytesBridge.csproj.CopyComplete
+C:\Users\spotk\OneDrive\Desktop\Clearbytes\ClearbytesBridge\obj\Debug\ClearbytesBridge.dll
+C:\Users\spotk\OneDrive\Desktop\Clearbytes\ClearbytesBridge\obj\Debug\ClearbytesBridge.pdb
